@@ -1,6 +1,16 @@
 body{
-	background-image: url("back.jpg");
+	
 	background-size: cover;
+	color: black;
+ text-align: center;
+}
+h1{
+	font-size: 50px;
+}
+button{
+	width:50px;
+	height:30px;
+	background-color: black;
 	color: white;
-	text-align: center;
+	border: 0px;
 }
