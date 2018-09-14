@@ -1,43 +1,13 @@
 <!DOCTYPE html>
-
 <html>
+<script type="text/javascript" src="triangle.js"></script>
+<link rel="stylesheet" type="text/css" href="triangle.css">
 <body>
 <h1>Triangle Tracker</h1><br>
 <p>Enter the length of the sides</p>
 <form id="form">
 <input name="name" type="text" size="10" height> <p><button type="button" onclick="outputname()">Check</button>
 </form>
-<script>
-
-function outputname() {
-var x,y,name,a,b,c,answer;
-x=document.getElementById("form") ;
-y=x.elements["name"].value;
-jdslkjcm
-if(a!=b && a!=c){
-
-	console.log("This is an scalene triangle");
-}
-else if(a==b || a==c){
-	document.getElementById("demo").innerHTML="This is an isosceles triangle";
-	
-}
-else if(a==b && a==c){
-	document.getElementById("demo").innerHTML="This is an equilateral triangle"
-}
-
-else{
-	console.log("This is not a triangle. Try again")
-}
-// if (y==15) {
-// document.getElementById("demo").innerHTML="Your answer is correct";
-// } else {
-// document.getElementById("demo").innerHTML="Your answer is wrong";
-// }
-}
-</script>
-
-
 <p id="demo"></p>
 </body>
 </html>
