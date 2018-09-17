@@ -9,6 +9,7 @@ Triangle Tracker is a web page that allows the user to input the lengths of the 
 * input length of sides (cm)
 * allows only numerical inputs
 * click check for output 
+* view on your right the result in a text area box
 ## Technologies Used
 {HTML, CSS & JavaScript}
 ## Support and contact details
