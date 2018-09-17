@@ -7,8 +7,8 @@ Triangle Tracker is a web page that allows the user to input the lengths of the 
 {This web page will enable the user to input the length of the sides of a triangle and it should output whether the triangle is an equilateral, isosceles, or scalene triangle.}
 ## Setup/Installation Requirements and step-by step guide
 * input length of sides (cm)
-* allows only numerical
-* click check for output
+* allows only numerical inputs
+* click check for output 
 ## Technologies Used
 {HTML, CSS & JavaScript}
 ## Support and contact details
