@@ -1,7 +1,6 @@
 # TriangleTracker
 Triangle Tracker is a web page that allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle.
 ## ip address:https://kevinemusoni.github.io/TriangleTracker/
-## github link : https://github.com/KevineMusoni/TriangleTracker.git
 #### {Triangle Tracker is a web page that allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle.}, 14/09/2018
 #### By **{Kevine Musoni}**
 ## Description
@@ -16,4 +15,4 @@ Triangle Tracker is a web page that allows the user to input the lengths of the 
 ## Support and contact details
 {Run the web page once again incase of any errors / send an email: kevinenicky@gmail.com}
 Copyright (c) {2018} **{Kevine Musoni}**
- 
+ ## github link : https://github.com/KevineMusoni/TriangleTracker.git
