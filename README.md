@@ -15,4 +15,4 @@ Triangle Tracker is a web page that allows the user to input the lengths of the 
 ## Support and contact details
 {Run the web page once again incase of any errors / send an email: kevinenicky@gmail.com}
 Copyright (c) {2018} **{Kevine Musoni}**
- ## github link : https://github.com/KevineMusoni/TriangleTracker.git
+ ### github link : https://github.com/KevineMusoni/TriangleTracker.git
